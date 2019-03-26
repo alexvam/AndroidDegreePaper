@@ -1,2 +1,2 @@
 # AndroidDegreePaper
-Android Degree Paper-Piraeus University of Applied Scientists
+Android Degree Paper-Piraeus University of Applied Sciences
